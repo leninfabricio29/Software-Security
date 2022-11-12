@@ -1,7 +1,7 @@
-******* UNIVERSIDA NACIONAL DE LOJA *******
+******* UNIVERSIDAD NACIONAL DE LOJA *******
 Estudiante : Fabricio Yanangómez
 Docente : Ing. Cristian Narváez Guillen
 Asignatura : Software Security
 
-Link del respositorio:
-https://github.com/leninfabricio29/Software-Security
+Link del mapa mental en mejor resolución:
+https://infograph.venngage.com/ps/a3FGazMQEJo/owasp-top-10-_-mapa-mental
